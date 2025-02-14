@@ -294,6 +294,24 @@
     "saas": true,
     "website": "https://imageengine.io"
   },
+  "ImageKit": {
+    "cats": [
+      31,
+      95
+    ],
+    "description": "ImageKit is a real-time image and video transformation and optimization service that delivers visual media via a global CDN, with integrated digital asset management.",
+    "dom": "img[src*='.imagekit.io/'], img[data-src*='.imagekit.io/'], source[src*='.imagekit.io/'], source[data-src*='.imagekit.io/']",
+    "headers": {
+      "x-server": "ImageKit.io"
+    },
+    "icon": "ImageKit.svg",
+    "pricing": [
+      "freemium",
+      "payg",
+      "recurring"
+    ],
+    "website": "https://imagekit.io"
+  },
   "Imagely NextGEN Gallery": {
     "cats": [
       87,
